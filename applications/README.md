@@ -40,3 +40,4 @@ variable it reads and nothing else.
 | Application | Language | What it does |
 | --- | --- | --- |
 | [worldline](worldline) | Python | Snapshot-branch competing plans, verify their artifacts, and replay only the winner |
+| [solari-workbench](solari-workbench) | TypeScript | Inspectable debugging sessions for SSH-based agents, with a runnable offline repair demo, partial live verification, and a documented snapshot consistency issue |

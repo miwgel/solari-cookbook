@@ -1,0 +1,16 @@
+node_modules/
+!package-lock.json
+dist/
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite*
+coverage/
+test-results/
+playwright-report/
+.private/
+.workbench/
+exports/
+*.pem
+*.key
